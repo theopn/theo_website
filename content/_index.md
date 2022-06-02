@@ -8,5 +8,5 @@ draft: false
 
 ### I am Theo, and welcome to my website!
 
-**You can get to know [more about me]({{< ref "/about.md" >}} "About Me")
-or read about [my cool projects]({{< ref "/projects" >}} "Projects") and [writings]({{< ref "/blog" >}} "Blog Posts").**
+**You can get to know more [about me]({{< ref "/about.md" >}} "About Me")
+or read about [my cool projects]({{< ref "/projects" >}} "Projects") and [writings]({{< ref "/writings" >}} "Writings").**

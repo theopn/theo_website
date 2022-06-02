@@ -1,7 +1,7 @@
 baseURL = 'https://theopark.me'
 languageCode = 'en-us'
-title = "Theo's World"
-subtitle = "Welcome to my personal website"
+title = "Theo's Park"
+subtitle = "Welcome to Theo's Website"
 owner = "Theo P"
 theme = 'term-modified'
 paginate = 5
@@ -65,7 +65,7 @@ missingContentMessage = "Page not found..."
 missingBackButtonLabel = "Back to home page"
 
 [params.logo]
-  logoText = "Theo's World"
+  logoText = "Theo's Park"
   logoHomeLink = "/"
 
 [menu]
@@ -74,9 +74,9 @@ missingBackButtonLabel = "Back to home page"
     name = "About Me"
     url = "/about"
   [[menu.main]]
-    identifier = "blog"
-    name = "Blog Posts"
-    url = "/blog"
+    identifier = "writings"
+    name = "Writings"
+    url = "/writings"
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
