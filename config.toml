@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = "Theo's World"
 subtitle = "Welcome to my personal website"
 owner = "Theo P"
-theme = 'terminal'
+theme = 'term-modified'
 paginate = 5
 
 [params]
