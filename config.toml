@@ -1,6 +1,8 @@
 baseURL = 'https://theopn.github.io/'
 languageCode = 'en-us'
-title = "Theo's Website"
+title = "Theo's World"
+subtitle = "Welcome to my personal website"
+owner = "Theo P"
 theme = 'terminal'
 paginate = 5
 
@@ -10,7 +12,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 3
@@ -47,48 +49,35 @@ paginate = 5
 
   # whether to show a table of contents
   # can be overridden in a page's front-matter
-  # Toc = false # default
+  Toc = false # default
 
   # set title for the table of contents
   # can be overridden in a page's front-matter
-  # TocTitle = "Table of Contents" # default
+  TocTitle = "Table of Contents" # default
 
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
+menuMore = "Show more"
+readMore = "Read more"
+readOtherPosts = "Read other posts"
+newerPosts = "Newer posts"
+olderPosts = "Older posts"
+missingContentMessage = "Page not found..."
+missingBackButtonLabel = "Back to home page"
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Theo's website!"
-    subtitle = "Welcome to my personal website"
-    owner = "Theo P"
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+[params.logo]
+  logoText = "Theo's World"
+  logoHomeLink = "/"
 
-    [languages.en.params.logo]
-      logoText = "Home"
-      logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About Me"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "blog"
-        name = "Blog Posts"
-        url = "/blog"
-      [[languages.en.menu.main]]
-        identifier = "projects"
-        name = "Projects"
-        url = "/projects"
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About Me"
+    url = "/about"
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog Posts"
+    url = "/blog"
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects"
