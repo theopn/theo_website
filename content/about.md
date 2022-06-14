@@ -23,7 +23,7 @@ You can view [my resume](./TP_Resume-4_website.pdf) for the detailed explanation
 
 ## More about me
 
-I love messing with shell, particularly different text editors, but I always come back to Vim and Neovim. Check out my [dotfiles](https://github.com/theopn/dotfiles) for the vim/Nvim configuration.
+I love messing with shell, particularly different text editors, but I always come back to Vim and Neovim. Check out my [dotfiles](https://github.com/theopn/dotfiles) for the vim/Nvim configuration. 
 
 I love taking photos. I own Canon EOS M50 with EF-M 15-45mm f/3.5-6.3 lens, and I have taken many portraits with it. Maybe one day I will share my photos online.
 
@@ -31,6 +31,6 @@ I am colorblind.
 
 I love writing, despite being not particularly good at it.
 
-I love salmon.
-
 I love organization and cleaning.
+
+I love salmon.
