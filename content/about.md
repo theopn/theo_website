@@ -29,6 +29,8 @@ I love taking photos. I own Canon EOS M50 with EF-M 15-45mm f/3.5-6.3 lens, and 
 
 I am colorblind.
 
+I collect, modify, and make mechanical watches. If you want to take a peek at my collection (which the Seiko NH movement makes up 80% of), let me know.
+
 I love writing, despite being not particularly good at it.
 
 I love organization and cleaning.
