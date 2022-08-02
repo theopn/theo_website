@@ -4,7 +4,7 @@ cover: /img/portrait.jpg
 draft: false
 ---
 
-{{< figure src="/img/portrait.jpg" alt="Me looking at you" position="center" style="border-radius: 8px;" caption="Welcome!!" captionPosition="left" captionStyle="color: black;" >}}
+{{< figure src="/img/index/my_portrait.jpg" alt="Me looking at you" position="center" style="border-radius: 8px;" caption="Welcome!!" captionPosition="left" captionStyle="color: black;" >}}
 
 ### I am Theo, and welcome to my website!
 
